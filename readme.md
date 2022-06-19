@@ -4,3 +4,4 @@ Implement the class of record type which handle the file IO and record insertion
 Handle the class of category type which is mainly responsible for recursively finding
 # Pymoney
 The tkinter GUI design is in this file, users can manipulate the records by adding a record with the form ex: 2022-06-01(optional, set to today if there is no date input) meal(must be in the category list) lunch -90 and delete the selected record in the list_box and find all the records belong to the input category.
+You can use the sample records.txt if you want.

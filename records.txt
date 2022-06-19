@@ -1,4 +1,13 @@
-9405
+9675
 2020-05-18 transportation 1822 -95
 2020-07-07 food cake -500
 2022-06-19 salary sinica 10000
+2022-06-19 drink tea -35
+2022-06-19 snack cookie -60
+2022-06-19 drink soda -40
+2022-06-19 food noodle -110
+2022-06-17 meal lunchbox -95
+2022-06-10 meal lunchbox -95
+2022-06-19 meal lunchbox -95
+2022-06-19 bonus receit 400
+2022-06-19 bonus receit 400
