@@ -101,7 +101,6 @@ class records:
                 try:
                     date = dt.date.fromisoformat(item[0])
                 except:
-                    print('here')
                     error_message = 'Invalid date format! set to today by default\n'
                     date = str(dt.date.today())
                 item = date,item[1],item[2],int(item[3]) 
