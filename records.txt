@@ -1,0 +1,4 @@
+9405
+2020-05-18 transportation 1822 -95
+2020-07-07 food cake -500
+2022-06-19 salary sinica 10000
